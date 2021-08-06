@@ -12,3 +12,9 @@ in the space of the driveway. This is not a full driving capture.
 2012_Nissan_Leaf_Driving:
 This fully electric car was driven around the block. It was shifted through the gears as well.
 2012 Leafs use the original generation CAN data format.
+
+Busmaster_Think_log.log:
+Driving around in a Think City Electric car. I believe this was a 2011 or 2012 model. The
+car is quite basic so don't expect anything self driving related or fancy. But, astute
+observers should be able to find the usual suspects - wheel speeds, tire pressures,
+RPM, battery voltage, etc.
